@@ -1,0 +1,16 @@
+.bal{
+    background-color: white;
+}
+.col-md-1 img{
+    height: 400px;
+}
+.car{
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.btn-primary{
+    background-color: black;
+    padding: 10px 20px;
+    border-radius: 10px;
+    border: none;
+}
