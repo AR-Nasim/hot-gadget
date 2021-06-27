@@ -1,5 +1,6 @@
-.bal{
-    background-color: white;
+*{
+    font-family: 'Poppins', sans-serif;
+    color: black;
 }
 .col-md-1 img{
     height: 400px;
@@ -13,4 +14,13 @@
     padding: 10px 20px;
     border-radius: 10px;
     border: none;
+}
+.carousel-indicators button{
+    background-color: black;
+}
+.bar-col{
+background-color: blue !important;
+}
+.con-margin{
+    margin-top: 100px;
 }
