@@ -6,7 +6,7 @@ h1,h2,h3,h4,h5,h6,footer small{
     font-weight: bold;
 }
 .col-md-1 img{
-    height: 350px;
+    width: 75%;
 }
 .car{
     padding-left: 20px;
@@ -99,6 +99,12 @@ input[type="email"]{
 }
 footer{
     text-align: center;
+}
+.container{
+    margin-bottom: 15px;
+}
+.yellow-col a{
+    color: rgb(235, 107, 21);
 }
 
 
